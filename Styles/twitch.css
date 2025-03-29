@@ -893,6 +893,19 @@ main section:nth-child(1) {
   gap: 5px;
 }
 
+.image-check{
+  height: 35px;
+  width: 25px;
+  padding: 2px;
+}
+
+.image-check:hover{
+  background-color: #35353b;
+  cursor: pointer;
+  padding: 2px;
+  border-radius: 5px;
+}
+
 .info-caja div p:nth-child(1) {
   display: flex;
   font-size: 12px;
