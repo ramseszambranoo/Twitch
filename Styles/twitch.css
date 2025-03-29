@@ -88,7 +88,7 @@ nav {
   display: none;
   justify-content: center;
   align-items: center;
-  border: 1px solid #d6d6d6;
+  border: 1px solid #67676B;
   background: none;
   color: #0e0e10;
   padding: 10px;
@@ -1816,7 +1816,7 @@ main section:nth-child(2) div {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #d6d6d6;
+    border: 1px solid #67676B;
     background: none;
     color: #0e0e10;
     padding: 10px;
